@@ -1,0 +1,31 @@
+.header_div{
+    background-color: black; 
+    top:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+#SCA{
+    color: red;
+}
+
+#Note{
+    color:rgb(250, 161, 9);
+}
+
+.main_div{
+    background: linear-gradient(rgb(0, 253, 0), aqua);
+}
+
+.footer_div{
+    bottom: 0;
+    top: 100;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+    color: aqua;
+    line-height: 8;
+    font-size: 14px;
+}
+
